@@ -1,1 +1,0 @@
-/home/clmb/rustlings/target/release/rustlings: /home/clmb/rustlings/src/exercise.rs /home/clmb/rustlings/src/main.rs /home/clmb/rustlings/src/project.rs /home/clmb/rustlings/src/run.rs /home/clmb/rustlings/src/ui.rs /home/clmb/rustlings/src/verify.rs
