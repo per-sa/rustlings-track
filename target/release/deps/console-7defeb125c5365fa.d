@@ -1,0 +1,13 @@
+/home/clmb/rustlings/target/release/deps/console-7defeb125c5365fa.rmeta: /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/home/clmb/rustlings/target/release/deps/libconsole-7defeb125c5365fa.rlib: /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/home/clmb/rustlings/target/release/deps/console-7defeb125c5365fa.d: /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs:
+/home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs:
+/home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs:
+/home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs:
+/home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs:
+/home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs:
+/home/clmb/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs:
